@@ -1,3 +1,9 @@
+# repo data
+country_bounds/
+embeddings/
+esa_grid/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
