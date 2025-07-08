@@ -1,7 +1,8 @@
 # repo data
 country_bounds/
 embeddings/
-esa_grid/
+esa_grid/*
+!esa_grid/*.json
 
 
 # Byte-compiled / optimized / DLL files
